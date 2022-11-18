@@ -1,0 +1,20 @@
+{
+  "name": "pactsnippets",
+  "displayName": "pactsnippets",
+  "description": "A collection of Pact Snippets",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "pact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
