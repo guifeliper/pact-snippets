@@ -2,6 +2,7 @@
   "name": "pactsnippets",
   "displayName": "pactsnippets",
   "description": "A collection of Pact Snippets",
+  "publisher": "guifeliper",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
