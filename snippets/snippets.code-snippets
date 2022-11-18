@@ -1,1 +1,20 @@
-{}
+{
+    "Pact Function":{
+        "prefix": "defun",
+        "body": [
+            "(defun $1 ($2)",
+            "@doc \"$3 \"",
+            "$4)"
+        ],
+        "description": "Create a basic function template"
+    },
+    "Pact Module": {
+        "prefix": "module",
+        "body": [
+            "(module $1 '$2",
+            "@doc \"$3 \"",
+            "$4)"
+        ],
+        "description": "Create a basic module template"
+    }
+}
