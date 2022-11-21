@@ -2,6 +2,7 @@
 
 A collection of Pact snippets and commands. 
 
+![snippets in action](images/snippets-in-action.gif)
 ## Snippets
 
 | Snippet | Renders                                       |
